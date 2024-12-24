@@ -9,7 +9,7 @@
 */
 /* eslint-disable */
 
-import { emojiSafeSplit, getText } from "./utils/strings.js";
+import { emojiSafeSplit, getText } from "/strings.js";
 
 class CharSet {
 	constructor(chars) {
